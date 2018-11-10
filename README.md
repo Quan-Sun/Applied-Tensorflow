@@ -13,3 +13,4 @@ This repository will contain basic Tensorflow tutorials and deep learning concep
 
 **[Image Style Transfer](https://github.com/Quan-Sun/Learning_Tensorflow/tree/master/Image%20Style%20Transfer)** - A tensorflow implementation of style transfer described in the papers **[Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)**. It's a very interesting experiment.
 ![mixed_image](https://github.com/Quan-Sun/Learning_Tensorflow/blob/master/Image%20Style%20Transfer/images/sunset1_starry.jpg)
+![content_image](https://github.com/Quan-Sun/Learning_Tensorflow/blob/master/Image%20Style%20Transfer/images/sunset1.jpeg)
