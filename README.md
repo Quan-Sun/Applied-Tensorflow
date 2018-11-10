@@ -10,3 +10,6 @@ This repository will contain basic Tensorflow tutorials and deep learning concep
 **[Universal Approximation Theorem](https://github.com/Quan-Sun/Learning_Tensorflow/blob/master/Universal%20Approximation%20Theorem.ipynb)** - The Universal Approximation Theorem states that any feed forward neural network with a single hidden layer containing a finite number of neurons can fit any function. This notebook Creates a neural networks with one hidden layer to classifies all samples in MNIST. I respectively set 20 and 1000 hidden neurons, and test the performance of models.
 
 **[MNIST Classification by Tensorflow_Slim](https://github.com/Quan-Sun/Learning_Tensorflow/blob/master/MNIST%20Classification%20by%20Tensorflow_Slim.ipynb)** - A notebook for constructing models by TF-Slim.
+
+**[Image Style Transfer](https://github.com/Quan-Sun/Learning_Tensorflow/tree/master/Image%20Style%20Transfer)** - A tensorflow implementation of style transfer described in the papers **[Image Style Transfer Using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)**. It's a very interesting experiment.
+![mixed_image](https://github.com/Quan-Sun/Learning_Tensorflow/blob/master/Image%20Style%20Transfer/images/sunset1_starry.jpg)
