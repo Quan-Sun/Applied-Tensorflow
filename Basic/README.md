@@ -1,4 +1,4 @@
-This content is very helpful seeing from https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/03B_Layers_API.ipynb
+This content is very helpful seeing from *https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/03B_Layers_API.ipynb*
 
 The entire purpose of TensorFlow is to have a so-called computational graph that can be executed much more efficiently than if the same calculations were to be performed directly in Python. TensorFlow can be more efficient than NumPy because TensorFlow knows the entire computation graph that must be executed, while NumPy only knows the computation of a single mathematical operation at a time.
 
