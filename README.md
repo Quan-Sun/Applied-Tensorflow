@@ -1,7 +1,7 @@
 # Learning_Tensorflow
 This repository will contain basic Tensorflow tutorials and deep learning concepts. It'll also contain some experiments on some papers that I read and some interesting model that I find on Internet or books.
 
-**[Basic](https://github.com/Quan-Sun/Learning_Tensorflow/tree/master/Basic)** - A file contains basic Tensorflow tutorials, such as graph, session, tensor, nerual networks, CNN, etc. 
+**[Basic](https://github.com/Quan-Sun/Learning_Tensorflow/tree/master/Basic)** - A file contains basic Tensorflow tutorials, such as graph, session, tensor, nerual networks, etc. 
 
 **[MNIST_CNN](https://github.com/Quan-Sun/Applied-Tensorflow/blob/master/MNIST_CNN.ipynb)** - A notebook for MNIST classification by a simple CNN model, but getting a very high testing accuracy.
 
