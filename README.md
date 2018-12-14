@@ -18,3 +18,5 @@ This repository will contain basic Tensorflow tutorials and deep learning concep
 <div align=center><img src="https://github.com/Quan-Sun/Learning_Tensorflow/raw/master/Image%20Style%20Transfer/images/sunset1_starry.jpg"/></div>
 
 **[The_simplest_RNN](https://github.com/Quan-Sun/Applied-Tensorflow/blob/master/The_simplest_RNN.ipynb)** - A notebook for MNIST classification by a very simple RNN model, but getting a relatively high test accuracy.
+
+**[models](https://github.com/Quan-Sun/Master-of-Tensorflow/tree/master/models)** - A fold contains some well-known models, such as VGG19, ResNet50 etc.
