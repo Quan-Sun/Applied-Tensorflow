@@ -5,5 +5,6 @@
 **[ResNet50](https://github.com/Quan-Sun/Dive-into-Machine-Learning/blob/master/models/RestNet50.ipynb)** - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385). 
 
 <div align=center><img src="https://github.com/Quan-Sun/Dive-into-Machine-Learning/blob/master/models/images/ResNet.png"/></div>
+
 If you want to look in-depth, here is an excellent github respositor: 
-[deep-residual-networks](https://github.com/KaimingHe/deep-residual-networks)
+[deep-residual-networks] (https://github.com/KaimingHe/deep-residual-networks)
