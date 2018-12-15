@@ -20,3 +20,6 @@ This repository will contain basic Tensorflow tutorials and deep learning concep
 **[The_simplest_RNN](https://github.com/Quan-Sun/Applied-Tensorflow/blob/master/The_simplest_RNN.ipynb)** - A notebook for MNIST classification by a very simple RNN model, but getting a relatively high test accuracy.
 
 **[models](https://github.com/Quan-Sun/Master-of-Tensorflow/tree/master/models)** - A fold contains some well-known models, such as VGG19, ResNet50 etc.
+
+
+**[MNIST classification with SVM](https://github.com/Quan-Sun/Dive-into-Machine-Learning/blob/master/MNIST%20classification%20with%20SVM.ipynb)** - A notebook using classical SVM with RBF kernel to classify MNIST in scikit-learn, which launching grid search with cross-validation for finding the best parameters, C and gamma. As a result, best parameters are C=5 and gamma=0.05. I didn't complete the training process due to its long time running.
