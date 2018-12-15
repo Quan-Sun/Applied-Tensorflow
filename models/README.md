@@ -1,9 +1,9 @@
-**[VGG19](https://github.com/Quan-Sun/Dive-into-Machine-Learning/blob/master/models/VGG19.ipynb)** - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
+**1.[VGG19](https://github.com/Quan-Sun/Dive-into-Machine-Learning/blob/master/models/VGG19.ipynb)** - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
 
 <div align=center><img src="https://github.com/Quan-Sun/Dive-into-Machine-Learning/blob/master/models/images/VGG19.png"/></div>
 <div align=center>Source: The reference paper</div>
 
-**[ResNet50](https://github.com/Quan-Sun/Dive-into-Machine-Learning/blob/master/models/RestNet50.ipynb)** - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385). 
+**2.[ResNet50](https://github.com/Quan-Sun/Dive-into-Machine-Learning/blob/master/models/RestNet50.ipynb)** - [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385). 
 
 <div align=center><img src="https://github.com/Quan-Sun/Dive-into-Machine-Learning/blob/master/models/images/ResNet.png"/></div>
 <div align=center>Source: The reference paper</div>
