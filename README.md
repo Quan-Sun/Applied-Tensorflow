@@ -34,3 +34,6 @@ parameters of a specific type of entity such as an object or an object part. We 
 
 **[LSTM_PTB](https://github.com/Quan-Sun/Dive-into-Machine-Learning/blob/master/LSTM_PTB.ipynb
 )** - A notebook to train a language model on word level Penn Tree Bank dataset. Penn Treebank dataset, known as PTB dataset, is widely used in machine learning of NLP (Natural Language Processing) research.
+
+**[mnist_tensorboard](https://github.com/Quan-Sun/Dive-into-Machine-Learning/blob/master/mnist_tensorboard.ipynb
+)** - A notebook about usage of tensorboard on mnist.
