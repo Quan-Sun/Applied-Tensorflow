@@ -38,6 +38,6 @@ parameters of a specific type of entity such as an object or an object part. We 
 **[mnist_tensorboard](https://github.com/Quan-Sun/Dive-into-Machine-Learning/blob/master/mnist_tensorboard.ipynb
 )** - A notebook about usage of tensorboard on mnist. [Tensorboard](https://www.tensorflow.org/guide/summaries_and_tensorboard) is the official website of tensorboard.
 
-**[mnist_tensorboard](https://github.com/Quan-Sun/Dive-into-Machine-Learning/blob/master/deep_dream.ipynb
+**[deep_dream](https://github.com/Quan-Sun/Dive-into-Machine-Learning/blob/master/deep_dream.ipynb
 )** - A notebook building [Deep Dream](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) model by keras. 
 
