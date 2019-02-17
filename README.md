@@ -41,3 +41,4 @@ parameters of a specific type of entity such as an object or an object part. We 
 **[deep_dream](https://github.com/Quan-Sun/Dive-into-Machine-Learning/blob/master/deep_dream.ipynb
 )** - A notebook building [Deep Dream](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) model by keras. 
 
+**[pretrained_word_embeddings](https://github.com/Quan-Sun/Dive-into-Machine-Learning/blob/master/pretrained_word_embeddings.ipynb)** - A notebook walking you through the process of solving a text classification problem using pre-trained word embeddings and a convolutional neural network. See details in [keras blog](https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html).
